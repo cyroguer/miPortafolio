@@ -1,0 +1,33 @@
+h1, h2,h3{font-family: 'roboto', sans-serif; /* Aplica Poppins a todo el texto */
+            font-weight: 300;  
+}
+p, li{
+    font-family: 'Poppins', sans-serif; /* Aplica Poppins a todo el texto */
+            font-weight: 300; /* Peso 300 (light) */
+            font-size: large;
+            text-align: justify;
+    
+}
+main{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.carousel {
+    margin: 0 auto; /* Márgenes automáticos a la izquierda y a la derecha */
+    width: 75%; /* Ancho del carousel */
+    height: 100%;
+  }
+
+  a:active, i{
+    color: rgb(9, 74, 74);
+  }
+
+  a:hover{
+    color: rgb(7, 104, 104);
+  }
+
+  body{
+    background-image: linear-gradient(to left bottom, #ffffff, #dde2e9, #b5c8d1, #8db0b1, #6f9689);
+  }
