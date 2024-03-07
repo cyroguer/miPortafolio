@@ -29,5 +29,12 @@ main{
   }
 
   body{
-    background-image: linear-gradient(to left bottom, #ffffff, #dde2e9, #b5c8d1, #8db0b1, #6f9689);
+  }
+  i{
+    color: black;
+    font-size: 2rem;
+
+  }
+  footer{
+    margin-right: 20px;
   }
